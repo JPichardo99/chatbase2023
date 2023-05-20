@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "70580152496",
+    "project_id": "chatbase2023",
+    "storage_bucket": "chatbase2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70580152496:android:c384a6b127de9ef5dcf375",
+        "android_client_info": {
+          "package_name": "com.example.chatbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70580152496-pmluat0bqujimelkj2o3da3cgl4usunt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbase",
+            "certificate_hash": "c72fd8245c12971bcaaa45a2d80bd6d71c588204"
+          }
+        },
+        {
+          "client_id": "70580152496-vsn01keoddb382ohrouc10nldlp6118p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNUzinCXj0Bv7UFHjDWtIqXDRqckvCYlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70580152496-bnbpa2upjhs081vgh8aimgkbpeik8u36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70580152496-psb78ui9ucp3pd0rsmak1n904v5ajr0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatbase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
